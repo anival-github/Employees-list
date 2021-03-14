@@ -1,4 +1,4 @@
-# Creating employees list app with React + React Hooks + REST API
+# Creating employees list with React + React Hooks + REST API
 
 ### The following features were implemented:  
   - [x]  the list of employees is downloaded from a server;
